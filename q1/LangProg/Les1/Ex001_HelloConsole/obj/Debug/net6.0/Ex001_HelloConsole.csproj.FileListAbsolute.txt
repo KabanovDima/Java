@@ -1,0 +1,16 @@
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.exe
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.deps.json
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.runtimeconfig.json
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\bin\Debug\net6.0\ref\Ex001_HelloConsole.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.GlobalUsings.g.cs
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\ref\Ex001_HelloConsole.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Les1\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.genruntimeconfig.cache
