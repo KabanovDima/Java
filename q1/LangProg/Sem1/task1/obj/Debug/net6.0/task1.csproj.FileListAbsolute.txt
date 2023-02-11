@@ -1,0 +1,16 @@
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.GlobalUsings.g.cs
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\bin\Debug\net6.0\task1.exe
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\bin\Debug\net6.0\task1.deps.json
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\bin\Debug\net6.0\task1.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\bin\Debug\net6.0\ref\task1.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\bin\Debug\net6.0\task1.pdb
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\ref\task1.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.pdb
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem1\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
