@@ -14,9 +14,9 @@ Console.WriteLine("+");
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
 
-int x = xa, y = xb;
+int x = xa, y = ya;
 int count = 0;
-while (count < 10000) {
+while (count < 100000) {
     int z = new Random().Next(0, 3); // [0;3] 0 1 2
     if (z == 0) {
         x = (x+xa)/2;
