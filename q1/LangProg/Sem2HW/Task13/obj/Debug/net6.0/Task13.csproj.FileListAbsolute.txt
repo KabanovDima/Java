@@ -1,0 +1,16 @@
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\bin\Debug\net6.0\Task13.exe
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\bin\Debug\net6.0\Task13.deps.json
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\bin\Debug\net6.0\Task13.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\bin\Debug\net6.0\ref\Task13.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\bin\Debug\net6.0\Task13.pdb
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.GlobalUsings.g.cs
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\ref\Task13.dll
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.pdb
+C:\Users\Dmitry\Desktop\GbDeveloper\GbDeveloper\q1\LangProg\Sem2HW\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
