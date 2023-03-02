@@ -48,3 +48,85 @@
 // }
 
 // ====================================================================
+
+// Напишите программу, которая будет преобразовывать десятичное число в двоичное.
+// 45 -> 101101
+// 3 -> 11
+// 2 -> 10
+
+// void BinareView(int number){
+//     if (number <= 0){
+//         return;
+//     } else {
+//         BinareView(number / 2);
+//         System.Console.Write(number % 2);
+//     }
+// }
+// System.Console.Write("Enter the number: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// BinareView(number);
+
+// System.Console.Write("Enter the number: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+// string arr = "";
+
+// while (number > 0){
+//     arr = arr + Convert.ToString(number % 2);
+//     number =number / 2;
+// }
+// System.Console.WriteLine(arr);
+// char[] charArray = arr.ToCharArray();
+// Array.Reverse(charArray);
+// System.Console.WriteLine(string.Join("", charArray));
+
+
+// ====================================================================
+
+// Задача 44: Не используя рекурсию, выведите первые N чисел Фибоначчи. Первые два числа Фибоначчи: 0 и 1.
+// Если N = 5 -> 0 1 1 2 3
+// Если N = 3 -> 0 1 1
+// Если N = 7 -> 0 1 1 2 3 5 8
+
+// System.Console.Write("Enter the number: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// void Fibonacci (int number){
+//     int x1 = 0;
+//     int x2 = 1;
+//     System.Console.Write($"{x1} {x2} ");
+//     int res = 0;
+//     for (int i = 2; i < n; i++){
+//         res = x1 + x2;
+//         System.Console.Write($"{res} ");
+//         x1 = x2;
+//         x2 = res;
+//     }
+// }
+// Fibonacci(n);
+
+// ====================================================================
+
+// Задача 45: Напишите программу, которая будет создавать копию заданного массива с помощью поэлементного копирования.
+// System.Console.Write("Enter the length og array: ");
+// int len = Convert.ToInt32(Console.ReadLine());
+// int[] array = new int[len];
+// int[] array1 = new int[len];
+// void FillArray(int[] arr){
+//     for (int i = 0; i < arr.Length; i++){
+//         arr[i] = new Random().Next(0, 10);
+//     }
+// }
+// void PrintArray(int[] arr){
+//     for (int i = 0; i < arr.Length; i++){
+//         System.Console.Write($"{arr[i]} ");
+//     }
+// }
+// void ArrayCopy(int[] arr){
+//     for (int i = 0; i < arr.Length; i++){
+//         array1[i] = array[i];
+//     }
+// }
+// FillArray(array);
+// PrintArray(array);
+// ArrayCopy(array);
+// System.Console.WriteLine();
+// PrintArray(array1);
