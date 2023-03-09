@@ -113,40 +113,40 @@
 // 8 4 2 4
 // Сумма элементов главной диагонали: 1+9+2 = 12
 
-System.Console.Write("Enter the heigth and length of array (m x m): ");
-int m = Convert.ToInt32(Console.ReadLine());
-int[,] array = new int [m, m];
-int[,] FillArray(int[,] array){    
-    for (int i = 0; i < array.GetLength(0); i++){        
-        for (int j = 0; j < array.GetLength(1); j++){                   
-            array[i,j] = new Random().Next(2, 5);                        
-        }
-    }
-    return array;
-}
-void PrintArray(int[,] array){    
-    for (int i = 0; i < array.GetLength(0); i++){                
-        for (int j = 0; j < array.GetLength(1); j++){
-            System.Console.Write($"{array[i,j]} ");
-        }
-        System.Console.WriteLine();
-    }
-    System.Console.WriteLine();
-}
-int SumNumbDiagonal(int[,] array){
-    int sum = 0;
-    for (int i = 0; i < array.GetLength(0); i++){
-        for (int j = 0; j < array.GetLength(1); j++){
-            if(i == j){
-                sum += array[i,j];
-                System.Console.Write($"{array[i,j]} ");
-            }
-        }
-    }
-    System.Console.WriteLine();
-    return sum;
-}
+// System.Console.Write("Enter the heigth and length of array (m x m): ");
+// int m = Convert.ToInt32(Console.ReadLine());
+// int[,] array = new int [m, m];
+// int[,] FillArray(int[,] array){    
+//     for (int i = 0; i < array.GetLength(0); i++){        
+//         for (int j = 0; j < array.GetLength(1); j++){                   
+//             array[i,j] = new Random().Next(2, 5);                        
+//         }
+//     }
+//     return array;
+// }
+// void PrintArray(int[,] array){    
+//     for (int i = 0; i < array.GetLength(0); i++){                
+//         for (int j = 0; j < array.GetLength(1); j++){
+//             System.Console.Write($"{array[i,j]} ");
+//         }
+//         System.Console.WriteLine();
+//     }
+//     System.Console.WriteLine();
+// }
+// int SumNumbDiagonal(int[,] array){
+//     int sum = 0;
+//     for (int i = 0; i < array.GetLength(0); i++){
+//         for (int j = 0; j < array.GetLength(1); j++){
+//             if(i == j){
+//                 sum += array[i,j];
+//                 System.Console.Write($"{array[i,j]} ");
+//             }
+//         }
+//     }
+//     System.Console.WriteLine();
+//     return sum;
+// }
 
-FillArray(array);
-PrintArray(array);
-System.Console.WriteLine($"Sum diagonal numbers = {SumNumbDiagonal(array)}");
+// FillArray(array);
+// PrintArray(array);
+// System.Console.WriteLine($"Sum diagonal numbers = {SumNumbDiagonal(array)}");

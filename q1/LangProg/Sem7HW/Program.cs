@@ -63,6 +63,7 @@
 //     }
 //     System.Console.WriteLine();
 // }
+// Var1 CheckExistNumber
 // int CheckExistNumber (int[,] array, int a, int b){
 //     int number = -1;
 //     // int length = array.GetLength(0);
@@ -78,9 +79,20 @@
 //         }  
 //     return number;
 // }
+// Var2 CheckExistNumber
+// void CheckExistNumber (int[,] array, int a, int b){
+//     if(a > (array.GetLength(0)-1) || b > (array.GetLength(0)-1)){
+//         System.Console.WriteLine("There is no such index.");
+//     }  else{
+//         System.Console.WriteLine(array[a,b]);
+//     }
+// }
+
+
 // FillArray(array);
 // PrintArray(array);
-// System.Console.WriteLine(CheckExistNumber(array, a, b));
+// // System.Console.WriteLine(CheckExistNumber(array, a, b));
+// CheckExistNumber(array, a, b);
 
 // ===============================================================
 
