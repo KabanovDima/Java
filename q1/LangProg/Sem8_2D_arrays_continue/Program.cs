@@ -98,7 +98,6 @@
 
 // System.Console.Write("Enter the heigth and length of array (m x m): ");
 // int m = Convert.ToInt32(Console.ReadLine());
-
 // int[,] array = new int [m, m];
 // int[,] FillArray(int[,] array){    
 //     for (int i = 0; i < array.GetLength(0); i++){        
@@ -154,3 +153,70 @@
 // System.Console.WriteLine();
 // int[] countArray = FrequencyDictionary(array);
 // Print1DArray(countArray);
+
+// =====================================================================
+
+// Задача 59: Задайте двумерный массив из целых чисел. Напишите программу, которая
+// удалит строку и столбец, на пересечении которых расположен элемент массива.
+// Например, задан массив:
+// 1 4 7 2 
+// 5 9 2 3
+// 8 4 2 4
+// 5 2 6 7
+// Наименьший элемент 1, на выходе получим следующий массив:
+// 9 4 2
+// 2 2 6
+// 3 4 7
+
+// System.Console.Write("Enter the heigth and length of array (m x m): ");
+// int m = Convert.ToInt32(Console.ReadLine());
+// int[,] array = new int [m, m];
+// int indexMinDigitI = 0;
+// int indexMinDigitJ = 0;
+// int[,] FillArray(int[,] array){    
+//     for (int i = 0; i < array.GetLength(0); i++){        
+//         for (int j = 0; j < array.GetLength(1); j++){                   
+//             array[i,j] = new Random().Next(2, 5);                        
+//         }
+//     }
+//     return array;
+// }
+// int MinValue(int[,] array){
+//     int minNumber = 0;
+//     for (int i = 0; i < array.GetLength(0); i++){
+//         for (int j = 0; j < array.GetLength(1); j++){
+//             if(array[i,j] < minNumber){
+//                 minNumber = array[i,j];
+//                 indexMinDigitI = i;
+//                 indexMinDigitJ = j;              
+//             }
+//         }
+//     }
+//     return minNumber;
+// }
+// void Print2DArray(int[,] array){    
+//     for (int i = 0; i < array.GetLength(0); i++){                
+//         for (int j = 0; j < array.GetLength(1); j++){
+//             System.Console.Write($"{array[i,j]} ");
+//         }
+//         System.Console.WriteLine();
+//     }
+//     System.Console.WriteLine();
+// }
+// void Print2DArrayWoMinIndex(int[,] array){    
+//     for (int i = 0; i < array.GetLength(0); i++){                
+//         for (int j = 0; j < array.GetLength(1); j++){
+//             if(indexMinDigitI != i && indexMinDigitJ != j){
+//             System.Console.Write($"{array[i,j]} ");
+//             }
+//         }
+//         System.Console.WriteLine();
+//     }
+//     System.Console.WriteLine();
+// }
+
+// FillArray(array);
+// Print2DArray(array);
+// MinValue(array);
+// System.Console.WriteLine();
+// Print2DArrayWoMinIndex(array);
