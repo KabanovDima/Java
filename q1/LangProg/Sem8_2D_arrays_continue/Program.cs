@@ -182,7 +182,7 @@
 //     return array;
 // }
 // int MinValue(int[,] array){
-//     int minNumber = 0;
+//     int minNumber = array[0,0];
 //     for (int i = 0; i < array.GetLength(0); i++){
 //         for (int j = 0; j < array.GetLength(1); j++){
 //             if(array[i,j] < minNumber){
@@ -192,6 +192,7 @@
 //             }
 //         }
 //     }
+//     System.Console.Write($"{minNumber}, {indexMinDigitI}, {indexMinDigitJ}"); // узнаем индекс мин.числа и его значение 
 //     return minNumber;
 // }
 // void Print2DArray(int[,] array){    
