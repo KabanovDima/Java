@@ -158,12 +158,70 @@ import time
 
 # =================== Задачи =====================================
 
-# Дан список чисел. Определите, сколько в нем встречается различных чисел.
-some_list = []
-for _ in range(10):
-    number = random.randint(1,10)
-    some_list.append(number)
-print(some_list)
-some_set = set(some_list)
-print(some_set)
-print(len(some_set))
+# Задача №17. Дан список чисел. Определите, сколько в нем встречается различных чисел.
+# some_list = []
+# for _ in range(10):
+#     number = random.randint(1,10)
+#     some_list.append(number)
+# print(some_list)
+# some_set = set(some_list)
+# print(some_set)
+# print(len(some_set))
+
+# ////////////////////////////////
+
+# Задача №19. Дана последовательность из N целых чисел и число
+# K. Необходимо сдвинуть всю последовательность
+# (сдвиг - циклический) на K элементов вправо, K –
+# положительное число.
+# Input: [1, 2, 3, 4, 5] k = 3
+# Output: [4, 5, 1, 2, 3]
+
+# some_list = [1, 2, 3, 4, 5]
+# k = 3
+# some_list = some_list[k:] + some_list[:k]
+# print(some_list)
+
+# //////////////////////////////////
+
+# Задача №21. Напишите программу для печати всех уникальных
+# значений в словаре. 
+# Input: [{"V": "S001"}, {"V": "S002"}, {"VI": "S001"},
+# {"VI": "S005"}, {"VII": " S005 "}, {" V ":" S009 "}, {" VIII
+# ":" S007 "}]
+# Output: {'S005', 'S002', 'S007', 'S001', 'S009'}
+
+# кривое условие задачи:
+# some_dict = {"V": "S001", "V": "S002", "VI": "S001", "VI": "S005", 
+#              "VII": " S005 ", " V ":" S009 ", " VIII":" S007 "}
+# # print(some_dict)
+# for val in some_dict.values():
+#     print(val)
+
+# корректный вариант:
+# some_dict = {'V' : '124', 'VI' : '124', 'VII' : '643', 'VIII' : '613', 'IX' : '37458', 'X' : '513'}
+# a = set()
+# for i in some_dict.values():
+#     print(i)
+#     a.add(i)
+# print(a)
+
+# //////////////////////////////////
+
+# Задача №23. Решение в группах
+# Дан массив, состоящий из целых чисел. Напишите
+# программу, которая подсчитает количество
+# элементов массива, больших предыдущего (элемента
+# с предыдущим номером)
+# Input: [0, -1, 5, 2, 3]
+# Output: 2 (-1 < 5, 2 < 3)
+
+# some_list = [0, -1, 5, 2, 3]
+# count = 0
+# listn = list()
+# print(len(some_list))
+# for i in range(0, len(some_list)-1):
+#     if some_list[i] < some_list[i+1]:
+#         count +=1
+#         listn.append(f'{some_list[i]} < {some_list[i+1]}')
+# print(f'{count} {tuple(listn)}')
