@@ -156,12 +156,12 @@ import time
 # set
 # dict
 
-a = [1, 2, 3]
-b = ['1', '2', '3']
-c = {}
-for ind in range(0, len(a)):
-    c[a[ind]] = b[ind]
-print(c)
+# a = [1, 2, 3]
+# b = ['1', '2', '3']
+# c = {}
+# for ind in range(0, len(a)):
+#     c[a[ind]] = b[ind]
+# print(c)
 
 # =================== Задачи =====================================
 
