@@ -24,7 +24,7 @@
 # вида:
 # A4B3C2XYZD4E3F3A6B28
 
-some_string = ('AAAABBBCCXYZDDDDEEEFFFAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBB')
+some_string = ('AAAABBBCCXYZDDDDEEEFFFAAAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBC')
 # print(some_string)
 some_list = list(some_string)
 print(some_list)
@@ -40,6 +40,10 @@ for i in range(0, len(some_list) - 1):
         temp_list = []
 if temp_list:
     final_list.append(temp_list)
+if some_list[-1] == some_list[-2]:
+    final_list[-1].append(some_list[-1])
+else:
+    final_list.append(some_list[-1])
 print(final_list)
 print_list = []
 for i in final_list:
