@@ -26,3 +26,6 @@ print(some_list)
 x = int(input('Введите диапазон от: '))
 y = int(input('Введите диапазон до: '))
 print(some_list[x:y+1])
+for i in range(len(some_list)):
+    if x <= some_list[i] <= y:
+        print(i, end=', ')
