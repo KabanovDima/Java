@@ -99,7 +99,31 @@
 # Деревья шумели
 # Тучи разошлись
 # Листва зеленела
-#
-# 4. Требуется реализовать функцию longest_words(file), которая выводит слово,
+
+# Требуется реализовать функцию longest_words(file), которая выводит слово,
 # имеющее максимальную длину (или список слов, если таковых несколько).
 
+# var1
+# with open('C:/Users/Dmitry/Desktop/GbDeveloper/GbDeveloper/q1/Python/Sem8_работа_с_файлами/article.txt', 'r', encoding='utf-8') as file:
+#     text = file.read().split()
+#     print(text)
+#     len_max = 0
+#     for i in text:
+#         if len_max <= len(i):
+#             len_max = len(i)
+#     print(len_max)
+
+#     strLenMax = []
+#     for j in text:
+#         if len(j) == len_max:
+#             strLenMax.append(j)
+#     print(*strLenMax)
+
+# var2
+# with open('C:/Users/Dmitry/Desktop/GbDeveloper/GbDeveloper/q1/Python/Sem8_работа_с_файлами/article.txt', 'r', encoding='utf-8') as file:
+#     text = file.read().split()
+#     print(text)
+#     len_max = max(list(map(len, text)))
+#     print(len_max)
+#     strLenMax = list(filter(lambda x: len(x) == len_max, text))
+#     print(*strLenMax)
