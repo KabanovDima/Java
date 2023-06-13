@@ -20,7 +20,6 @@ public class Main {
 
     static void task1(){
         String jSonString = "{\"name\":\"Ivanov\", \"country\":\"Russia\", \"city\":\"Moscow\", \"age\":\"null\"}";
-
     }
 
 //    2) Реализуйте алгоритм сортировки пузырьком числового массива,
