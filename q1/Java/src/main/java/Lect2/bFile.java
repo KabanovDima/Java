@@ -110,5 +110,4 @@ public class bFile {
         dbuf.order(bOrder).putInt(num);
         out.write(dbuf.array());
     }
-
 }

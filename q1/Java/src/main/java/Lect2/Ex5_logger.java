@@ -46,4 +46,5 @@ public class Ex5_logger {
         logger.log(Level.WARNING, "Test logging 1");
         logger.info("Test logging 2");
     }
+
 }
