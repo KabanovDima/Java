@@ -11,7 +11,6 @@ import java.util.logging.*;
 public class Main {
     public static void main(String[] args) throws IOException {
     task2();
-
     }
 
 //    1) Дана строка sql-запроса "select * from students where ". Сформируйте часть WHERE этого запроса,
