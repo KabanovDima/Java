@@ -1,9 +1,11 @@
-package Test;
+package Lec3_Collectoins_intro;
 
-public class Test {
+public class Main {
     public static void main(String[] args) {
-    int x;
 
 
     }
+
+
+
 }

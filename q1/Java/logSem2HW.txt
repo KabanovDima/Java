@@ -1,8 +1,8 @@
-июн. 13, 2023 8:45:20 PM Sem2_HW1.Main task2
+июн. 14, 2023 8:48:26 PM Sem2_HW.Main task2
 INFO: result: [2, 3, 7, 4, 5]
-июн. 13, 2023 8:45:20 PM Sem2_HW1.Main task2
+июн. 14, 2023 8:48:26 PM Sem2_HW.Main task2
 INFO: result: [2, 3, 7, 4, 5]
-июн. 13, 2023 8:45:20 PM Sem2_HW1.Main task2
+июн. 14, 2023 8:48:26 PM Sem2_HW.Main task2
 INFO: result: [2, 3, 4, 7, 5]
-июн. 13, 2023 8:45:20 PM Sem2_HW1.Main task2
+июн. 14, 2023 8:48:26 PM Sem2_HW.Main task2
 INFO: result: [2, 3, 4, 5, 7]
