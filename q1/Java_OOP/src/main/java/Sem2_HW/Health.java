@@ -1,6 +1,6 @@
 package Sem2_HW;
 
 public interface Health {
-    void getHealth();
-
+    String getHealth();
+    String healthColour();
 }
