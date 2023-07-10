@@ -31,10 +31,4 @@ public class Building implements Health{
                 Colour.ANSI_GREEN +  maxHealthPoint + Colour.ANSI_RESET);
     }
 
-//    public void colour(){
-//        if(currentHealthPoint == maxHealthPoint){
-//            System.out.print(" currentHealthPoint: " + Colour.ANSI_GREEN + currentHealthPoint + Colour.ANSI_RESET +
-//                    ", maxHealthPoint: " + Colour.ANSI_GREEN + maxHealthPoint + Colour.ANSI_RESET);
-//        }
-//    }
 }
